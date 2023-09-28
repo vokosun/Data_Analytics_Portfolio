@@ -37,7 +37,7 @@ Kennesaw State University, Bachelor's degree, Public Health, 2015 - 2019
 
 This section showcases my commitment to continuous learning and professional development in the field of data analytics. It includes certifications obtained from reputable programs, such as the Thinkful Data Analytics Bootcamp, which have equipped me with the latest tools and techniques essential for effective data analysis and decision-making. These certifications validate my expertise and proficiency in the dynamic field of data analytics, demonstrating my dedication to staying current with industry trends and best practices.
 
-- [Data Analytics Bootcamp Certificate](https://github.com/vokosun/Portfolio_Projects/blob/main/Certifications/Thinkful%20Data%20Analytics%20Bootcamp/Thinkful%20Data%20Analytics.pdf) (Jan 2022) (Thinkful)
+- [Data Analytics Bootcamp Certificate](https://github.com/vokosun/Portfolio_Projects/blob/main/Certifications/Thinkful%20Data%20Analytics%20Bootcamp/Thinkful%20Data%20Analytics.pdf) - (Jan 2022) (Thinkful)
 - [Google Data Analytics Professional Certificate](https://github.com/vokosun/Portfolio_Projects/tree/main/Certifications/Google%20Data%20Analytics) - (Coursera - Google)
 - [IBM Data Science Certificate](https://github.com/vokosun/Portfolio_Projects/tree/main/Certifications/IBM%20Data%20Science) - (Coursera - IBM)
 
