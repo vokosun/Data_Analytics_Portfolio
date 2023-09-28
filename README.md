@@ -12,8 +12,16 @@ I believe that data has the power to transform industries and drive positive cha
 - **[LinkedIn](https://www.linkedin.com/in/vanessaokosun/)**
 - **[Resume](https://github.com/vokosun/Data_Analytics_Portfolio/blob/main/Resume/Resume_DA_Okosun.pdf)**
 
+## Education 
+
+Mercer University, Master of Science - MS, Business Analytics, Jan 2022 - July 2023
+
+Kennesaw State University, Bachelor's degree, Public Health, 2015 - 2019
+
 ## Table of Contents
 - [About Me](https://github.com/vokosun/Data_Analytics_Portfolio/blob/main/README.md#business-analyst-portfolio---vanessa-okosun)
+- [Contact Info](https://github.com/vokosun/Data_Analytics_Portfolio#contact-info)
+- [Education](https://github.com/vokosun/Data_Analytics_Portfolio#education)
 - [Certifications](https://github.com/vokosun/Data_Analytics_Portfolio#certifications)
 - Projects
   - [Depression Vs Drug Use](https://github.com/vokosun/Data_Analytics_Portfolio#depression-vs-drug-use)
@@ -22,12 +30,16 @@ I believe that data has the power to transform industries and drive positive cha
   - [Finding Suspicious Patterns in GitHub accounts](https://github.com/vokosun/Data_Analytics_Portfolio#finding-suspicious-patterns-in-github-accounts)
   - [Vehicle Fuel Analysis](https://github.com/vokosun/Data_Analytics_Portfolio#vehicle-fuel-analysis)
   - [Term Deposit Marketing Campaign](https://github.com/vokosun/Data_Analytics_Portfolio#term-deposit-marketing-campaign)
- - [Education](
+
    
 
 ## Certifications
 
 This section showcases my commitment to continuous learning and professional development in the field of data analytics. It includes certifications obtained from reputable programs, such as the Thinkful Data Analytics Bootcamp, which have equipped me with the latest tools and techniques essential for effective data analysis and decision-making. These certifications validate my expertise and proficiency in the dynamic field of data analytics, demonstrating my dedication to staying current with industry trends and best practices.
+
+- Data Analytics Bootcamp Certificate (Jan 2022) (Thinkful)
+- Google Data Analytics Professional Certificate - (Coursera - Google)
+- IBM Data Science Certificate - (Coursera - IBM)
 
 
 ## Projects
@@ -182,12 +194,4 @@ The "Term Deposit Marketing Campaign" project revolves around a critical initiat
 This project underscores the importance of data-driven decision-making in the banking and financial industry. It highlights the creator's proficiency in data analysis and their ability to transform underperforming products into revenue-generating assets.
 
 By exploring the visualizations, analyses, and recommendations presented in this project, one can gain a profound understanding of how data and research can drive successful marketing campaigns
-
-
-## Education 
-
-Mercer University, Master of Science - MS, Business Analytics, Jan 2022 - July 2023
-
-Kennesaw State University, Bachelor's degree, Public Health , 2015 - 2019
-
 
