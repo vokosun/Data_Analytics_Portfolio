@@ -13,7 +13,7 @@ I believe that data has the power to transform industries and drive positive cha
 - **[Resume](https://github.com/vokosun/Data_Analytics_Portfolio/blob/main/Resume/Resume_DA_Okosun.pdf)**
 
 ## Table of Contents
-- About Me
+- [About Me](https://github.com/vokosun/Data_Analytics_Portfolio/blob/main/README.md#business-analyst-portfolio---vanessa-okosun)
 - Certifications
 - Projects
   - Depression Vs Drug Use
