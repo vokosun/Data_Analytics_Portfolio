@@ -8,9 +8,22 @@ In my GitHub portfolio, you'll find a collection of projects that reflect my com
 I believe that data has the power to transform industries and drive positive change. Join me on this exciting journey as we explore the world of data analytics together.
 
 ## Contact Info
-- **Email**: [vookosun@gmail.com](vookosun@gmail.com)
-- **LinkedIn**
-- Resume
+- **Email**: vookosun@gmail.com
+- **[LinkedIn](https://www.linkedin.com/in/vanessaokosun/)**
+- **[Resume](https://github.com/vokosun/Data_Analytics_Portfolio/blob/main/Resume/Resume_DA_Okosun.pdf)**
+
+## Table of Contents
+- About Me
+- Certifications
+- Projects
+  - Depression Vs Drug Use
+  - Covid's Financial Impact on IHG Hotels
+  - Diabetes Over Time
+  - Finding Suspicious Patterns in GitHub accounts
+  - Vehicle Fuel Analysis
+  - Term Deposit Marketing Campaign
+ - Education
+   
 
 ## Certifications
 
