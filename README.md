@@ -37,9 +37,9 @@ Kennesaw State University, Bachelor's degree, Public Health, 2015 - 2019
 
 This section showcases my commitment to continuous learning and professional development in the field of data analytics. It includes certifications obtained from reputable programs, such as the Thinkful Data Analytics Bootcamp, which have equipped me with the latest tools and techniques essential for effective data analysis and decision-making. These certifications validate my expertise and proficiency in the dynamic field of data analytics, demonstrating my dedication to staying current with industry trends and best practices.
 
-- Data Analytics Bootcamp Certificate (Jan 2022) (Thinkful)
-- Google Data Analytics Professional Certificate - (Coursera - Google)
-- IBM Data Science Certificate - (Coursera - IBM)
+- [Data Analytics Bootcamp Certificate](https://github.com/vokosun/Portfolio_Projects/blob/main/Certifications/Thinkful%20Data%20Analytics%20Bootcamp/Thinkful%20Data%20Analytics.pdf) (Jan 2022) (Thinkful)
+- [Google Data Analytics Professional Certificate](https://github.com/vokosun/Portfolio_Projects/tree/main/Certifications/Google%20Data%20Analytics) - (Coursera - Google)
+- [IBM Data Science Certificate](https://github.com/vokosun/Portfolio_Projects/tree/main/Certifications/IBM%20Data%20Science) - (Coursera - IBM)
 
 
 ## Projects
@@ -47,6 +47,8 @@ This section showcases my commitment to continuous learning and professional dev
 ### Depression vs. Drug Use 
 **Description:**
 The "Depression vs. Drug Use" project delves into the intricate relationship between depression and drug use using data obtained from the National Health and Nutrition Survey (NHNS) conducted by the CDC. The NHNS program is responsible for evaluating the nutritional status and overall health of individuals in the United States, producing vital health statistics for the country. This project specifically focuses on data collected during the 2017-2018 survey period, encompassing information on drug use, mental health (depression screener), and demographics.
+
+**[Data](https://github.com/vokosun/Portfolio_Projects/blob/main/Depression%20vs.%20Drug%20Use/Dep_vs_DrugUse_Data.csv)**
 
 **Key Objectives:**
 
