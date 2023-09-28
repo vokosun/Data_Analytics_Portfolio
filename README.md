@@ -1,4 +1,4 @@
-# Business Analyst Portfolio - Vanessa Okosun
+# Data Analyst Portfolio - Vanessa Okosun
 Hello! I'm Vanessa Okosun, a passionate and versatile data enthusiast with a unique professional journey. With a background as an Account Executive and Program Manager in the pharmaceutical industry, I've honed my skills in strategic planning, project management, and client engagement. My experience as a Program Analyst Intern at a nonprofit organization broadened my horizons, allowing me to apply data-driven insights to social causes.
 
 Beyond my corporate roles, I've had the privilege of working as an Assistant Teacher at a daycare, fostering a love for education and the nurturing of young minds. These diverse experiences have shaped my analytical mindset and fueled my curiosity for data analytics.
