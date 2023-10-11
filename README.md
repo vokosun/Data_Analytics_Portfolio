@@ -30,7 +30,7 @@ Kennesaw State University, Bachelor's degree, Public Health, 2015 - 2019
   - [Finding Suspicious Patterns in GitHub accounts](https://github.com/vokosun/Data_Analytics_Portfolio#finding-suspicious-patterns-in-github-accounts)
   - [Vehicle Fuel Analysis](https://github.com/vokosun/Data_Analytics_Portfolio#vehicle-fuel-analysis)
   - [Term Deposit Marketing Campaign](https://github.com/vokosun/Data_Analytics_Portfolio#term-deposit-marketing-campaign)
-  - [Medical Bill Prediction] () 
+  - [Medical Bill Prediction] (https://github.com/vokosun/Data_Analytics_Portfolio#medical-bill-prediction) 
 
    
 
