@@ -61,7 +61,7 @@ The "Depression vs. Drug Use" project delves into the intricate relationship bet
 
 5. **Results and Interpretation:** The project interprets the results, including p-values, variable importance, and odds ratios, to understand the relationships between various factors and drug use. The McFadden's R2 value is calculated to evaluate the predictive power of the model.
 
-6.**Endogeneity and Model Comparison:** The project addresses endogeneity by using a simultaneous equation model, comparing the 2SLS and 3SLS approaches. Hausman's specification test is employed to select the more appropriate model.
+6. **Endogeneity and Model Comparison:** The project addresses endogeneity by using a simultaneous equation model, comparing the 2SLS and 3SLS approaches. Hausman's specification test is employed to select the more appropriate model.
 
 **Tools Used:**
 
