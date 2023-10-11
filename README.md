@@ -30,6 +30,7 @@ Kennesaw State University, Bachelor's degree, Public Health, 2015 - 2019
   - [Finding Suspicious Patterns in GitHub accounts](https://github.com/vokosun/Data_Analytics_Portfolio#finding-suspicious-patterns-in-github-accounts)
   - [Vehicle Fuel Analysis](https://github.com/vokosun/Data_Analytics_Portfolio#vehicle-fuel-analysis)
   - [Term Deposit Marketing Campaign](https://github.com/vokosun/Data_Analytics_Portfolio#term-deposit-marketing-campaign)
+  - [Medical Bill Prediction] () 
 
    
 
@@ -197,3 +198,18 @@ This project underscores the importance of data-driven decision-making in the ba
 
 By exploring the visualizations, analyses, and recommendations presented in this project, one can gain a profound understanding of how data and research can drive successful marketing campaigns
 
+### Medical Bill Prediction 
+**Description:**
+The objective of this data science project is to develop a predictive model using linear regression in R to estimate medical bills for patients based on relevant factors. By leveraging this model, healthcare providers and patients can gain insights into potential costs, enabling better financial planning and cost-effective healthcare decisions.
+
+**Key Steps and Components:**
+
+1. **Data Collection:** Gather a comprehensive dataset containing patient information, medical procedures, diagnostic details, and associated billing records. This dataset may include variables such as age, gender, medical history, location, type of treatment, and insurance coverage.
+
+2. **Data Preprocessing:** Clean and prepare the dataset by addressing missing values, outliers, and formatting issues. This step also includes data transformation, such as one-hot encoding categorical variables and scaling numerical features.
+
+3. **Exploratory Data Analysis (EDA):** Conduct a thorough EDA to gain insights into the dataset. Visualizations and statistical analyses will be used to identify correlations and patterns in the data.
+
+4. **Model Development:** Utilize linear regression, a fundamental predictive modeling technique, to build a model that estimates medical bills based on input variables. This model will be developed in R, leveraging packages such as lm() for linear regression.
+
+5. **Feature Importance Analysis:** Determine which variables have the most significant impact on medical bills by analyzing feature importance. This insight can guide healthcare providers and patients in managing costs effectively.
