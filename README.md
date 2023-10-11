@@ -198,7 +198,7 @@ This project underscores the importance of data-driven decision-making in the ba
 
 By exploring the visualizations, analyses, and recommendations presented in this project, one can gain a profound understanding of how data and research can drive successful marketing campaigns
 
-### Medical Bill Prediction 
+### [Medical Bill Prediction](https://github.com/vokosun/Portfolio_Projects/tree/main/Hospital%20Bill%20Prediction) 
 **Description:**
 The objective of this data science project is to develop a predictive model using linear regression in R to estimate medical bills for patients based on relevant factors. By leveraging this model, healthcare providers and patients can gain insights into potential costs, enabling better financial planning and cost-effective healthcare decisions.
 
