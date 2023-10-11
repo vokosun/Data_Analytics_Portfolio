@@ -45,11 +45,9 @@ This section showcases my commitment to continuous learning and professional dev
 
 ## Projects
 
-### Depression vs. Drug Use 
+### [Depression vs. Drug Use](https://github.com/vokosun/Portfolio_Projects/tree/main/Depression%20vs.%20Drug%20Use) 
 **Description:**
 The "Depression vs. Drug Use" project delves into the intricate relationship between depression and drug use using data obtained from the National Health and Nutrition Survey (NHNS) conducted by the CDC. The NHNS program is responsible for evaluating the nutritional status and overall health of individuals in the United States, producing vital health statistics for the country. This project specifically focuses on data collected during the 2017-2018 survey period, encompassing information on drug use, mental health (depression screener), and demographics.
-
-**[Data](https://github.com/vokosun/Portfolio_Projects/blob/main/Depression%20vs.%20Drug%20Use/Dep_vs_DrugUse_Data.csv)**
 
 **Key Objectives:**
 
@@ -76,7 +74,7 @@ Through this analysis, the project aims to uncover the complex interplay between
 
 By exploring the correlations, statistical significance, and predictive power presented in this project, one can gain a deeper insight into the bi-directional relationship between depression and drug use and the potential implications for intervention and prevention strategies.
 
-### <u>Covid's Financial Impact on IHG Hotels</u>
+### [Covid's Financial Impact on IHG Hotels](https://github.com/vokosun/Portfolio_Projects/tree/main/Covid's%20Financial%20Impact%20on%20IHG%20Hotels)
 **Description:**
 The "IHG Dashboard - Covid's Financial Impact Analysis" project offers a comprehensive exploration of the financial repercussions of the COVID-19 pandemic on IHG Hotels. By leveraging booking data sourced from 2020 and previous years, this project presents a compelling narrative that unveils the profound influence of the pandemic on IHG's revenue streams. Through the use of data analysis tools such as Excel, SQL, and Power BI, the project conducts detailed examinations to identify the regions, hotel brands, and scales that experienced the highest and lowest revenue, as well as those that booked the most rooms, segmented by quarter.
 
@@ -98,7 +96,7 @@ This project showcases the creator's proficiency in data analysis, visualization
 
 By exploring the visualizations and analyses presented in this project, one can gain a comprehensive view of the profound impact of the pandemic on IHG Hotels, providing valuable lessons for the broader hospitality sector and beyond.
 
-### Diabetes Over Time
+### [Diabetes Over Time](https://github.com/vokosun/Portfolio_Projects/tree/main/Diabetes%20Over%20Time)
 **Description:**
 The "Diabetes Over Time" project is a comprehensive analysis of diabetes prevalence trends over the years, focusing on gender disparities worldwide. The project utilizes data provided by the NCD Risk Factor Collaboration, a valuable source for understanding the global burden of non-communicable diseases.
 
@@ -130,7 +128,7 @@ The "Diabetes Over Time" project is a comprehensive analysis of diabetes prevale
 
 By analyzing the prevalence of diabetes over time and examining gender disparities, this project contributes valuable information to the field of global health. The insights gained can be instrumental in shaping strategies and policies to combat diabetes and improve public health outcomes on a global scale.
   
-### Finding Suspicious Patterns in GitHub accounts
+### [Finding Suspicious Patterns in GitHub accounts](https://github.com/vokosun/Portfolio_Projects/tree/main/Finding%20Suspicious%20Patterns%20in%20GitHub%20accounts)
 **Description:**
 The "Finding Suspicious Patterns in GitHub Accounts" project tackles the important task of identifying potentially suspicious or robot-generated accounts within the GitHub ecosystem. By analyzing a dataset that includes the logs of accounts created on a single day, the project aims to flag accounts exhibiting behaviors that are indicative of automated or coordinated mass creation.
 
@@ -152,7 +150,7 @@ This project serves as a testament to the creator's proficiency in data analysis
 
 By exploring the visualizations and analyses presented in this project, one can gain valuable insights into the methodologies and strategies employed to detect and flag suspicious accounts on GitHub. It underscores the importance of data analysis in identifying and mitigating potential security threats in the digital age.
 
-### Vehicle Fuel Analysis  
+### [Vehicle Fuel Analysis](https://github.com/vokosun/Portfolio_Projects/tree/main/Vehicle%20Fuel%20Analysis)  
 **Description:**
 The "Vehicle Fuel Analysis" project represents a data-driven consulting endeavor for a prominent online consumer products review site. The project's primary objective was to provide comprehensive analysis and data-backed recommendations centered on vehicle fuel economy. It focused on a range of factors, including vehicle types, manufacturers, and technical specifications, with the ultimate aim of shedding light on how these factors influence fuel efficiency and annual fuel costs.
 
@@ -174,7 +172,7 @@ This project serves as a testament to the creator's proficiency in data analysis
 
 By exploring the visualizations, analyses, and recommendations presented in this project, one gains valuable insights into the factors influencing vehicle fuel economy, ultimately contributing to more informed and empowered consumer choices in the automotive industry.
 
-### Term Deposit Marketing Campaign
+### [Term Deposit Marketing Campaign](https://github.com/vokosun/Portfolio_Projects/tree/main/Who%20are%20the%20best%20prospects%20for%20our%20term%20deposit%20marketing%20campaign%3F)
 **Description:**
 The "Term Deposit Marketing Campaign" project revolves around a critical initiative undertaken by a bank to optimize the performance of a product that is currently underperforming and failing to meet revenue expectations. The primary objective of this project is to leverage data collected from various financial institutions to identify the most promising candidates or prospects for the term deposit product. Furthermore, the project seeks to address important questions related to the most effective channels for reaching out to prospects and whether phone marketing represents the optimal channel for this marketing campaign.
 
