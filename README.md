@@ -67,7 +67,6 @@ The "Depression vs. Drug Use" project delves into the intricate relationship bet
 * R
 * Excel
 * PowerPoint
-* SaaS platforms
 
 Through this analysis, the project aims to uncover the complex interplay between depression, demographics, and drug use. It provides valuable insights for healthcare professionals, researchers, and policymakers, contributing to a better understanding of the factors influencing these critical public health issues.
 
